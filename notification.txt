@@ -1,0 +1,7 @@
+1
+|||
+NOTICE: This device has been added to the Kodi developer platfrom by the lead developer, Dhrumil Shah.
+
+Enjoy the amazing new updates!
+
+SERVICE CODE: ACTIVDEVBUILD-25
